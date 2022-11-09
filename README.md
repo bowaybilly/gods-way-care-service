@@ -1,1 +1,2 @@
-# gods-way-care-service
+# Code repository
+This is the source code for godswaycareservice
